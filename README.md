@@ -113,3 +113,15 @@ Consider joining [our Discord server](https://discord.gg/wT8XjrjKkf) to stay up-
 ## Funding
 
 If you want to fund me and help the project, check out my [GitHub sponsors](https://github.com/sponsors/Snowiiii).
+
+
+## License & Fork Notice
+
+This repository is a fork of `Pumpkin-MC/Pumpkin` created **before** the upstream project changed its license.
+
+- **Upstream project:** Pumpkin-MC/Pumpkin
+- **Fork point (last MIT-licensed commit):** `441040105bb8ceb8b118bf84039727e6423046aa`
+- **Scope:** This repository is based on the code state at the commit above and **does not include** any code introduced in the upstream repository **after** the license change (e.g. commits at/after `05688ad...` where the license became GPL).
+
+All MIT license notices and copyright statements from the upstream MIT-licensed version are preserved.
+> Note: No merges/cherry-picks from upstream commits after `441040105bb8ceb8b118bf84039727e6423046aa` are included in this repository.
